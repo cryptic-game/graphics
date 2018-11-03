@@ -6,4 +6,4 @@ Welcome to the official [**Cryptic Graphics Repository**](https://github.com/cry
     
 -   Wallpapers should be in **full hd** resolution **(1920 x 1080)**.
     
--   Use [**this link**](https://material.io/) for design recommendations.
+-   Use [**this link**](https://material.io/design/) for design recommendations.
