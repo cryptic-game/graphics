@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="28.971874mm"
-   height="21.828125mm"
-   viewBox="0 0 28.971874 21.828125"
+   width="127.98267"
+   height="127.98084"
+   viewBox="0 0 33.862079 33.861598"
    version="1.1"
-   id="svg7365"
+   id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="termina_white_square.svg">
+   sodipodi:docname="terminal_white.svg">
   <defs
-     id="defs7359" />
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-139.53572"
-     inkscape:cy="-47.321428"
+     inkscape:zoom="1"
+     inkscape:cx="250.10779"
+     inkscape:cy="-26.79129"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,9 +39,10 @@
      inkscape:window-height="1017"
      inkscape:window-x="1672"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
-     id="metadata7362">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -56,28 +57,33 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-99.662872,-114.48475)">
+     transform="translate(-26.339664,-122.86183)">
     <g
-       transform="matrix(0.26458333,0,0,0.26458333,-99.1715,40.401415)"
-       id="g486">
-      <rect
-         x="754"
-         y="282.5"
-         width="104.5"
-         height="77.5"
-         id="rect482"
-         style="fill:#ffffff" />
-      <path
-         d="m 856,285 v 72.5 H 756.5 V 285 H 856 m 5,-5 H 751.5 v 82.5 H 861 Z"
-         id="path484"
-         inkscape:connector-curvature="0" />
+       transform="matrix(1.1687915,0,0,1.551283,-90.145454,-54.736415)"
+       id="layer1-0"
+       inkscape:label="Ebene 1">
+      <g
+         id="g486"
+         transform="matrix(0.26458333,0,0,0.26458333,-99.1715,40.401415)">
+        <rect
+           style="fill:#ffffff"
+           id="rect482"
+           height="77.5"
+           width="104.5"
+           y="282.5"
+           x="754" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path484"
+           d="m 856,285 v 72.5 H 756.5 V 285 H 856 m 5,-5 H 751.5 v 82.5 H 861 Z" />
+      </g>
+      <text
+         id="text490"
+         font-size="32.4272px"
+         transform="scale(1.0318915,0.96909414)"
+         style="font-size:17.17302322px;font-family:HackerArgot;stroke-width:0.52958703"
+         x="98.210381"
+         y="132.23857">&gt;_</text>
     </g>
-    <text
-       y="125.54195"
-       x="100.25265"
-       style="font-size:8.85331535px;font-family:HackerArgot;stroke-width:0.27302128"
-       transform="scale(1.0318915,0.96909414)"
-       font-size="32.4272px"
-       id="text490">&gt;_</text>
   </g>
 </svg>
