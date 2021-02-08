@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="Rechteck_77" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="miner-dark" transform="translate(-834 -15)">
+    <g transform="matrix(1, 0, 0, 1, 834, 15)" filter="url(#Rechteck_77)">
+      <rect id="Rechteck_77-2" data-name="Rechteck 77" width="128" height="128" rx="6" transform="translate(9 6)" fill="#4f4f4f"/>
+    </g>
+    <g id="Gruppe_103" data-name="Gruppe 103" transform="translate(878.896 34.72)">
+      <path id="Pfad_106" data-name="Pfad 106" d="M5670.2-27.72h-50.192a1.888,1.888,0,0,1-1.741-1.062,1.653,1.653,0,0,1,.235-1.793l25.1-30.453a1.936,1.936,0,0,1,1.506-.692,1.935,1.935,0,0,1,1.505.692l25.1,30.453a1.655,1.655,0,0,1,.234,1.794A1.888,1.888,0,0,1,5670.2-27.72Z" transform="translate(-5617 63)" fill="#4daf30"/>
+      <path id="Pfad_107" data-name="Pfad 107" d="M5645.1-3.72a1.821,1.821,0,0,1-1.674-1.059l-25.159-54.386a1.776,1.776,0,0,1,.116-1.708,1.838,1.838,0,0,1,1.558-.846h50.318a1.838,1.838,0,0,1,1.558.846,1.776,1.776,0,0,1,.116,1.708L5646.777-4.779A1.819,1.819,0,0,1,5645.1-3.72Zm-19.955-54a1.456,1.456,0,0,0-1.234.671,1.409,1.409,0,0,0-.093,1.355l19.954,43.135a1.445,1.445,0,0,0,1.328.84,1.444,1.444,0,0,0,1.327-.84l19.955-43.135a1.406,1.406,0,0,0-.093-1.354,1.457,1.457,0,0,0-1.235-.672Z" transform="translate(-5617 103)" fill="#4daf30"/>
+    </g>
+  </g>
+</svg>

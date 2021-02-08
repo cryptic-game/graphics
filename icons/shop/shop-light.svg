@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="Rechteck_74" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="shop-light" transform="translate(-709 -16)">
+    <g transform="matrix(1, 0, 0, 1, 709, 16)" filter="url(#Rechteck_74)">
+      <rect id="Rechteck_74-2" data-name="Rechteck 74" width="128" height="128" rx="6" transform="translate(9 6)" fill="#d5d6d7"/>
+    </g>
+    <g id="shopping-cart" transform="translate(733 38)">
+      <g id="Gruppe_83" data-name="Gruppe 83" transform="translate(0 0)">
+        <g id="Gruppe_82" data-name="Gruppe 82" transform="translate(0 0)">
+          <path id="Pfad_59" data-name="Pfad 59" d="M106.884,350.322a10.3,10.3,0,1,0,10.231,10.3A10.265,10.265,0,0,0,106.884,350.322Zm0,16.019a5.721,5.721,0,1,1,5.684-5.721A5.7,5.7,0,0,1,106.884,366.341Z" transform="translate(-75.622 -274.918)" fill="#4daf30" stroke="#4daf30" stroke-width="1"/>
+          <path id="Pfad_60" data-name="Pfad 60" d="M305.415,350.322a10.3,10.3,0,1,0,10.231,10.3A10.265,10.265,0,0,0,305.415,350.322Zm0,16.019a5.721,5.721,0,1,1,5.684-5.721A5.7,5.7,0,0,1,305.415,366.341Z" transform="translate(-230.955 -274.918)" fill="#4daf30" stroke="#4daf30" stroke-width="1"/>
+          <path id="Pfad_61" data-name="Pfad 61" d="M97.536,21.361a2.836,2.836,0,0,0-1.819-.915l-74-1.03-2.046-6.293A10.465,10.465,0,0,0,9.89,6.028H2.274a2.288,2.288,0,0,0,0,4.577H9.89a5.916,5.916,0,0,1,5.457,4L29.784,58.433l-1.137,2.632A11.046,11.046,0,0,0,29.67,71.02,10.557,10.557,0,0,0,38.2,75.825H82.417a2.288,2.288,0,0,0,0-4.577H38.2A5.79,5.79,0,0,1,33.422,68.5a6.329,6.329,0,0,1-.568-5.492l.91-2.06,47.859-5.035a12.533,12.533,0,0,0,10.8-9.611l5.457-23A1.955,1.955,0,0,0,97.536,21.361ZM87.987,45.275a7.746,7.746,0,0,1-6.934,6.064l-47.29,4.92L23.191,23.992l69.685,1.03Z" transform="translate(0 -6.028)" fill="#4daf30" stroke="#4daf30" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

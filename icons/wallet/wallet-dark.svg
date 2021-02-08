@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="Rechteck_66" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="wallet-dark" transform="translate(-606 -16)">
+    <g transform="matrix(1, 0, 0, 1, 606, 16)" filter="url(#Rechteck_66)">
+      <rect id="Rechteck_66-2" data-name="Rechteck 66" width="128" height="128" rx="6" transform="translate(9 6)" fill="#4f4f4f"/>
+    </g>
+    <g id="Gruppe_75" data-name="Gruppe 75" transform="translate(630 37)">
+      <path id="Pfad_45" data-name="Pfad 45" d="M7130.877,110h-85.752a6.13,6.13,0,0,1-6.124-6.125V18.125A6.13,6.13,0,0,1,7045.125,12h85.752A6.131,6.131,0,0,1,7137,18.125v85.75A6.131,6.131,0,0,1,7130.877,110ZM7048.19,18.125a3.069,3.069,0,0,0-3.066,3.065v79.625a3.067,3.067,0,0,0,3.066,3.06h79.627a3.064,3.064,0,0,0,3.06-3.06V21.19a3.067,3.067,0,0,0-3.06-3.065Z" transform="translate(-7039.001 -12)" fill="#4daf30"/>
+      <g id="Gruppe_74" data-name="Gruppe 74" transform="translate(21 21)">
+        <path id="Pfad_87" data-name="Pfad 87" d="M17.1,53.8A28.089,28.089,0,1,1,28,56,27.9,27.9,0,0,1,17.1,53.8ZM29,44a2,2,0,0,1,2,2v3.8a21.894,21.894,0,0,0,10.2-4.2l-2.95-2.95a2.042,2.042,0,0,1,0-2.888l1.512-1.512a2.042,2.042,0,0,1,2.888,0l2.95,2.95a21.891,21.891,0,0,0,4.185-10.082H45.559a2,2,0,0,1-2-2V26.888a2,2,0,0,1,2-2h4.222A21.894,21.894,0,0,0,45.6,14.807l-2.949,2.949a2.041,2.041,0,0,1-2.887,0l-1.513-1.513a2.041,2.041,0,0,1,0-2.887L41.2,10.406A21.9,21.9,0,0,0,31,6.2V10a2,2,0,0,1-2,2H27a2,2,0,0,1-2-2V6.2a21.891,21.891,0,0,0-10.191,4.2l2.952,2.952a2.041,2.041,0,0,1,0,2.887l-1.513,1.513a2.041,2.041,0,0,1-2.887,0L10.408,14.8A21.9,21.9,0,0,0,6.22,24.887h4.227a2,2,0,0,1,2,2V29.11a2,2,0,0,1-2,2H6.219a21.891,21.891,0,0,0,4.187,10.085l2.953-2.953a2.041,2.041,0,0,1,2.887,0l1.513,1.512a2.044,2.044,0,0,1,0,2.888l-2.953,2.952A21.886,21.886,0,0,0,25,49.8V46a2,2,0,0,1,2-2Z" transform="translate(0 0)" fill="#c2c2c2"/>
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="9.288" cy="9.288" r="9.288" transform="matrix(1, 0.017, -0.017, 1, 18.993, 18.67)" fill="#c2c2c2"/>
+      </g>
+    </g>
+  </g>
+</svg>

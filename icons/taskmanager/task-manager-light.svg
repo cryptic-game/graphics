@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145.999" height="145.999" viewBox="0 0 145.999 145.999">
+  <defs>
+    <filter id="Rechteck_47" x="0" y="0" width="145.999" height="145.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="task-manager-light" transform="translate(-575 -44)">
+    <g id="Task-Manger_dark" data-name="Task-Manger dark" transform="translate(222 37)">
+      <g transform="matrix(1, 0, 0, 1, 353, 7)" filter="url(#Rechteck_47)">
+        <rect id="Rechteck_47-2" data-name="Rechteck 47" width="127.999" height="127.999" rx="6" transform="translate(9 6)" fill="#d5d6d7"/>
+      </g>
+    </g>
+    <g id="Gruppe_102" data-name="Gruppe 102" transform="translate(18.999 3)">
+      <path id="Pfad_143" data-name="Pfad 143" d="M3.013,0H18.766" transform="translate(580 106.795)" fill="none" stroke="#4daf30" stroke-linecap="round" stroke-width="6"/>
+      <line id="Linie_5" data-name="Linie 5" y1="36.795" x2="14.596" transform="translate(598.766 70)" fill="none" stroke="#4daf30" stroke-linecap="round" stroke-width="6"/>
+      <line id="Linie_6" data-name="Linie 6" x2="29.191" y2="82" transform="translate(613.362 70)" fill="none" stroke="#4daf30" stroke-linecap="round" stroke-width="6"/>
+      <line id="Linie_7" data-name="Linie 7" y1="45.205" x2="16.681" transform="translate(642.553 106.795)" fill="none" stroke="#4daf30" stroke-linecap="round" stroke-width="6"/>
+      <path id="Pfad_144" data-name="Pfad 144" d="M0,0H15.753" transform="translate(659.234 106.795)" fill="none" stroke="#4daf30" stroke-linecap="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

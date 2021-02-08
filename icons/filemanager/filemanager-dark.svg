@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="Rechteck_59" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_61" x="15" y="15" width="116" height="59.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_64" x="45.625" y="29.495" width="54.75" height="30.509" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_61-2" x="15" y="71.5" width="116" height="59.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_64-2" x="45.625" y="85.995" width="54.75" height="30.509" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Filemanager-dark" transform="translate(-718 -16)">
+    <g transform="matrix(1, 0, 0, 1, 718, 16)" filter="url(#Rechteck_59)">
+      <rect id="Rechteck_59-2" data-name="Rechteck 59" width="128" height="128" rx="4" transform="translate(9 6)" fill="#4f4f4f"/>
+    </g>
+    <g id="Gruppe_98" data-name="Gruppe 98">
+      <g id="Gruppe_71" data-name="Gruppe 71" transform="translate(742 37)">
+        <g transform="matrix(1, 0, 0, 1, -24, -21)" filter="url(#Rechteck_61)">
+          <rect id="Rechteck_61-3" data-name="Rechteck 61" width="98" height="41.5" rx="2" transform="translate(24 21)" fill="#c2c2c2"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -24, -21)" filter="url(#Rechteck_64)">
+          <rect id="Rechteck_64-3" data-name="Rechteck 64" width="36.75" height="12.509" rx="2" transform="translate(54.63 35.5)" fill="#4daf30"/>
+        </g>
+      </g>
+      <g id="Gruppe_97" data-name="Gruppe 97" transform="translate(742 93.5)">
+        <g transform="matrix(1, 0, 0, 1, -24, -77.5)" filter="url(#Rechteck_61-2)">
+          <rect id="Rechteck_61-4" data-name="Rechteck 61" width="98" height="41.5" rx="2" transform="translate(24 77.5)" fill="#c2c2c2"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -24, -77.5)" filter="url(#Rechteck_64-2)">
+          <rect id="Rechteck_64-4" data-name="Rechteck 64" width="36.75" height="12.509" rx="2" transform="translate(54.63 92)" fill="#4daf30"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
